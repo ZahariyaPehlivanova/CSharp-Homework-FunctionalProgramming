@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\11.StudentsByGroup\bin\Debug\11.StudentsByGroup.exe.config
+D:\VisualStudio\07.Functional\11.StudentsByGroup\bin\Debug\11.StudentsByGroup.exe
+D:\VisualStudio\07.Functional\11.StudentsByGroup\bin\Debug\11.StudentsByGroup.pdb
+D:\VisualStudio\07.Functional\11.StudentsByGroup\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\11.StudentsByGroup\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\11.StudentsByGroup\obj\Debug\11.StudentsByGroup.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\11.StudentsByGroup\obj\Debug\11.StudentsByGroup.exe
+D:\VisualStudio\07.Functional\11.StudentsByGroup\obj\Debug\11.StudentsByGroup.pdb

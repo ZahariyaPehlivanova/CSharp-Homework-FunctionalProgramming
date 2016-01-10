@@ -1,0 +1,6 @@
+D:\VisualStudio\07.Functional\07.Functional\bin\Debug\07.Functional.exe.config
+D:\VisualStudio\07.Functional\07.Functional\obj\Debug\01.ClassStudent.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\07.Functional\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\07.Functional\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\07.Functional\obj\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\07.Functional\obj\Debug\07.Functional.pdb

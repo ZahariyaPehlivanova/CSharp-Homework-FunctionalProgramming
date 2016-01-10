@@ -1,0 +1,3 @@
+D:\VisualStudio\07.Functional\08.ExcellentStudent\bin\Debug\08.ExcellentStudent.exe.config
+D:\VisualStudio\07.Functional\08.ExcellentStudent\obj\Debug\08.ExcellentStudent.exe
+D:\VisualStudio\07.Functional\08.ExcellentStudent\obj\Debug\08.ExcellentStudent.pdb

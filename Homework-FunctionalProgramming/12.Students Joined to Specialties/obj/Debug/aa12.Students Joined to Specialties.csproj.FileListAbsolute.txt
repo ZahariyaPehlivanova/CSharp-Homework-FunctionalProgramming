@@ -1,0 +1,2 @@
+D:\VisualStudio\07.Functional\12.Students Joined to Specialties\bin\Debug\12.Students Joined to Specialties.exe.config
+D:\VisualStudio\07.Functional\12.Students Joined to Specialties\obj\Debug\aa12.Students Joined to Specialties.csprojResolveAssemblyReference.cache

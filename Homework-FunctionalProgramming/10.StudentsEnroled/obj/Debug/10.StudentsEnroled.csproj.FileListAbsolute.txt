@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\10.StudentsEnroled\bin\Debug\10.StudentsEnroled.exe.config
+D:\VisualStudio\07.Functional\10.StudentsEnroled\bin\Debug\10.StudentsEnroled.exe
+D:\VisualStudio\07.Functional\10.StudentsEnroled\bin\Debug\10.StudentsEnroled.pdb
+D:\VisualStudio\07.Functional\10.StudentsEnroled\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\10.StudentsEnroled\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\10.StudentsEnroled\obj\Debug\10.StudentsEnroled.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\10.StudentsEnroled\obj\Debug\10.StudentsEnroled.exe
+D:\VisualStudio\07.Functional\10.StudentsEnroled\obj\Debug\10.StudentsEnroled.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\05Sort Students\bin\Debug\05Sort Students.exe.config
+D:\VisualStudio\07.Functional\05Sort Students\bin\Debug\05Sort Students.exe
+D:\VisualStudio\07.Functional\05Sort Students\bin\Debug\05Sort Students.pdb
+D:\VisualStudio\07.Functional\05Sort Students\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\05Sort Students\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\05Sort Students\obj\Debug\05Sort Students.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\05Sort Students\obj\Debug\05Sort Students.exe
+D:\VisualStudio\07.Functional\05Sort Students\obj\Debug\05Sort Students.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.exe.config
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.exe
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.pdb
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.exe
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.pdb
+D:\VisualStudio\07.Functional\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\04. Students by Age\bin\Debug\_04.Students_by_Age.exe.config
+D:\VisualStudio\07.Functional\04. Students by Age\bin\Debug\_04.Students_by_Age.exe
+D:\VisualStudio\07.Functional\04. Students by Age\bin\Debug\_04.Students_by_Age.pdb
+D:\VisualStudio\07.Functional\04. Students by Age\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\04. Students by Age\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\04. Students by Age\obj\Debug\04. Students by Age.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\04. Students by Age\obj\Debug\_04.Students_by_Age.exe
+D:\VisualStudio\07.Functional\04. Students by Age\obj\Debug\_04.Students_by_Age.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\bin\Debug\03.Students by First and Last Name.exe.config
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\bin\Debug\03.Students by First and Last Name.exe
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\bin\Debug\03.Students by First and Last Name.pdb
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\obj\Debug\03.Students by First and Last Name.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\obj\Debug\03.Students by First and Last Name.exe
+D:\VisualStudio\07.Functional\03.Students by First and Last Name\obj\Debug\03.Students by First and Last Name.pdb

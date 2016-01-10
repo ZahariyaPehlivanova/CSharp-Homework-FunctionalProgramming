@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\bin\Debug\12.StudentsJoinedSpeciality.exe.config
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\bin\Debug\12.StudentsJoinedSpeciality.exe
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\bin\Debug\12.StudentsJoinedSpeciality.pdb
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\obj\Debug\12.StudentsJoinedSpeciality.exe
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\obj\Debug\12.StudentsJoinedSpeciality.pdb
+D:\VisualStudio\07.Functional\12.StudentsJoinedSpeciality\obj\Debug\12.StudentsJoinedSpeciality.csprojResolveAssemblyReference.cache

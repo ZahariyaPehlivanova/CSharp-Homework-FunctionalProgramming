@@ -1,0 +1,8 @@
+D:\VisualStudio\07.Functional\09.weakStudents\bin\Debug\09.weakStudents.exe.config
+D:\VisualStudio\07.Functional\09.weakStudents\bin\Debug\09.weakStudents.exe
+D:\VisualStudio\07.Functional\09.weakStudents\bin\Debug\09.weakStudents.pdb
+D:\VisualStudio\07.Functional\09.weakStudents\bin\Debug\07.Functional.exe
+D:\VisualStudio\07.Functional\09.weakStudents\bin\Debug\07.Functional.pdb
+D:\VisualStudio\07.Functional\09.weakStudents\obj\Debug\09.weakStudents.csprojResolveAssemblyReference.cache
+D:\VisualStudio\07.Functional\09.weakStudents\obj\Debug\09.weakStudents.exe
+D:\VisualStudio\07.Functional\09.weakStudents\obj\Debug\09.weakStudents.pdb
